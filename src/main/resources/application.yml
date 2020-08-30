@@ -1,0 +1,9 @@
+email: developer@weblearner.com
+user:
+ - developer
+ - tester
+ - productowner
+role:
+ peter: developer
+ john: developer
+ sam: tester
